@@ -1,0 +1,6 @@
+C:\Users\Romain\Desktop\src\IntermediaryService\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Romain\Desktop\src\IntermediaryService\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Romain\Desktop\src\IntermediaryService\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Romain\Desktop\src\IntermediaryService\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Romain\Desktop\src\IntermediaryService\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Romain\Desktop\src\IntermediaryService\ConsoleClient\obj\Debug\ConsoleClient.pdb
