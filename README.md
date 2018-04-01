@@ -19,8 +19,12 @@ Newtonsoft.Json (version 11.0.1)
 Topic chosen : Development
 
 - Graphical User Interface for the client
-- Replace all the accesses to WS (beetween Velib WS and IWS, between IWS and WS Clients) with asynchronous ones. Some indications can be find just below.
+- Replace all the accesses to WS (between Velib WS and IWS, between IWS and WS Clients) with asynchronous ones. Some indications can be find just below.
 - Add a cache in IWS, to reduce communications between Velib WS and IWS
+
+Note :
+
+The asynchronous method is used in the GUI (Client) and the non asynchronous method in ConsoleClient in order to observe the differences.
 
 # Author
 
