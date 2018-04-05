@@ -1,0 +1,9 @@
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\bin\Debug\ClientEvent.exe.config
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\bin\Debug\ClientEvent.exe
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\bin\Debug\ClientEvent.pdb
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\obj\Debug\ClientEvent.csprojResolveAssemblyReference.cache
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\obj\Debug\ClientEvent.csproj.CoreCompileInputs.cache
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\obj\Debug\ClientEvent.exe
+C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\ClientEvent\obj\Debug\ClientEvent.pdb
