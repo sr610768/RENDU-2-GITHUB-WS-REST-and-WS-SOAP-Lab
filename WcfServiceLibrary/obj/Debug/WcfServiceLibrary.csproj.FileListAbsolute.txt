@@ -1,8 +1,0 @@
-C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
-C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
-C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojResolveAssemblyReference.cache
-C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
-C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
-C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\WcfServiceLibrary\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Romain\Desktop\GIT-TEST\RENDU-2-GITHUB-WS-REST-and-WS-SOAP-Lab-master\WcfServiceLibrary\bin\Debug\Newtonsoft.Json.xml
